@@ -1,2 +1,2 @@
 # JavaScriptTutorial
-JS tutorial programs
+JS tutorial programs :)
